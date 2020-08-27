@@ -1,4 +1,5 @@
-# Git Lab #2
+# The second Git lab
 ## First team member: Jesse Wu
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: Jacob Turner
+### Die Project: simulates the rolling of a die with a specified number of
+sides.
